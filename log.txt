@@ -1,0 +1,187 @@
+==========================================================
+Reference Node: 5  
+Neighbours: (0,10,-1,6) 
+Communication Time: 0.000000
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 7  
+Neighbours: (2,12,6,8) 
+Communication Time: 0.000182
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 10  
+Neighbours: (5,15,-1,11) 
+Communication Time: 0.000210
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 11  
+Neighbours: (6,16,10,12) 
+Communication Time: 0.010764
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 15  
+Neighbours: (10,-1,-1,16) 
+Communication Time: 0.010786
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 17  
+Neighbours: (12,-1,16,18) 
+Communication Time: 0.010806
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 12  
+Neighbours: (7,17,11,13) 
+Communication Time: 0.010832
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 16  
+Neighbours: (11,-1,15,17) 
+Communication Time: 0.010850
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 1  
+Neighbours: (-1,6,0,2) 
+Communication Time: 0.011536
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 2  
+Neighbours: (-1,7,1,3) 
+Communication Time: 0.021961
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 6  
+Neighbours: (1,11,5,7) 
+Communication Time: 0.004560
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 8  
+Neighbours: (3,13,7,9) 
+Communication Time: 0.022001
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 10  
+Neighbours: (5,15,-33,11) 
+Communication Time: 0.022018
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 0  
+Neighbours: (-1,5,-1,1) 
+Communication Time: 0.011883
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 2  
+Neighbours: (-33,7,1,3) 
+Communication Time: 0.033135
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 5  
+Neighbours: (0,10,-33,6) 
+Communication Time: 0.010580
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 7  
+Neighbours: (2,12,6,8) 
+Communication Time: 0.010662
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 16  
+Neighbours: (11,-33,15,17) 
+Communication Time: 0.010783
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 18  
+Neighbours: (13,-1,17,19) 
+Communication Time: 0.043323
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 4  
+Neighbours: (-1,9,3,-1) 
+Communication Time: 0.013401
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 9  
+Neighbours: (4,14,8,-1) 
+Communication Time: 0.003510
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 11  
+Neighbours: (6,16,10,12) 
+Communication Time: 0.014929
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 13  
+Neighbours: (8,18,12,14) 
+Communication Time: 0.014204
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 14  
+Neighbours: (9,19,13,-1) 
+Communication Time: 0.023053
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 15  
+Neighbours: (10,-33,-33,16) 
+Communication Time: 0.000818
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 16  
+Neighbours: (11,-1,15,17) 
+Communication Time: 0.010297
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 18  
+Neighbours: (13,-33,17,19) 
+Communication Time: 0.042113
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 0  
+Neighbours: (-33,5,-33,1) 
+Communication Time: -0.001848
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 6  
+Neighbours: (1,11,5,7) 
+Communication Time: 0.002199
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 17  
+Neighbours: (12,-33,16,18) 
+Communication Time: 0.021973
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000==========================================================
+Reference Node: 19  
+Neighbours: (14,-1,18,-1) 
+Communication Time: 0.007529
+Timestamp: Thu Jan  1 07:30:00 1970
+
+Encrypt Time: 0.000000
